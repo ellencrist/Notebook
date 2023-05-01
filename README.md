@@ -1,2 +1,4 @@
 # Notebook
-Documentação de algumas linguagens armazenadas no google collab
+Documentação e anotação de aprendizado de diversos temas armazenados no google collab
+
+
